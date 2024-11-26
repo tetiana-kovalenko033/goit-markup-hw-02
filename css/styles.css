@@ -12,14 +12,6 @@ ul,
 ol {
   list-style: none;
 }
-h2 {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
 
 /* Header*/
 .logo {
@@ -76,10 +68,10 @@ h2 {
   letter-spacing: 0.04em;
   color: #fff;
   cursor: pointer;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
 }
 .main-button:hover .main-button:focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 
 /* Section 2 Features*/
